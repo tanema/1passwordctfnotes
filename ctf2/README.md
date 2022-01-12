@@ -22,12 +22,14 @@ The clock is ticking...
 ```
 
 Clues to this:
-https://en.wikipedia.org/wiki/Rail_fence_cipher
-https://en.wikipedia.org/wiki/Caesar_cipher
-https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+- https://en.wikipedia.org/wiki/Rail_fence_cipher
+- https://en.wikipedia.org/wiki/Caesar_cipher
+- https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 
 encoded: 'uffetrtqgc1nfbqavreavvvgcjravqg'
 decoded: 'uggcf1cnffjbeqratvarrevatvqvqvg'
+
+- The letter 1 🤔
 
 ```
 uggcf1cnffjbeqratvarrevatvqvqvg

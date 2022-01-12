@@ -26,8 +26,8 @@ Clues to this:
 - https://en.wikipedia.org/wiki/Caesar_cipher
 - https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 
-encoded: 'uffetrtqgc1nfbqavreavvvgcjravqg'
-decoded: 'uggcf1cnffjbeqratvarrevatvqvqvg'
+- encoded: 'uffetrtqgc1nfbqavreavvvgcjravqg'
+- decoded: 'uggcf1cnffjbeqratvarrevatvqvqvg'
 
 - The letter 1 🤔
 
@@ -38,6 +38,6 @@ uggcf1cnffjbeqratvarrevatvqvqvg
 
 c -> p = 13
 
-rot13 = https1passwordengineeringididit
-https://1password.engineering/ididit
+- rot13 = https1passwordengineeringididit
+- https://1password.engineering/ididit
 

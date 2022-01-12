@@ -27,9 +27,12 @@ https://en.wikipedia.org/wiki/Caesar_cipher
 https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 
 encoded: 'uffetrtqgc1nfbqavreavvvgcjravqg'
-
 decoded: 'uggcf1cnffjbeqratvarrevatvqvqvg'
-             ps1password       r    d d
+
+```
+uggcf1cnffjbeqratvarrevatvqvqvg
+   ps1password       r    d d
+```
 
 c -> p = 13
 
